@@ -1,3 +1,7 @@
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
 import Tkinter as tk
 #from tkinter import filedialog
 import tkFileDialog
